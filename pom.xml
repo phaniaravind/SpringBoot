@@ -5,10 +5,10 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>Test_Jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT_Jenkins</version>
 	<packaging>war</packaging>
 
-	<name>Hello Jenkins</name>
+	<name>Hello_Jenkins</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
